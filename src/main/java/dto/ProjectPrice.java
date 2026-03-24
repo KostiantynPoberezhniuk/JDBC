@@ -1,5 +1,6 @@
-public class ProjectPrice {
+package dto;
 
+public class ProjectPrice {
     private int id;
     private double price;
 
@@ -18,6 +19,7 @@ public class ProjectPrice {
 
     @Override
     public String toString() {
+
         return "ProjectPrice{id=" + id + ", price=" + price + "}";
     }
 }

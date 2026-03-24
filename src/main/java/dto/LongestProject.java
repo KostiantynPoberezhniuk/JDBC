@@ -1,3 +1,5 @@
+package dto;
+
 public class LongestProject {
     private int id;
     private int monthCount;

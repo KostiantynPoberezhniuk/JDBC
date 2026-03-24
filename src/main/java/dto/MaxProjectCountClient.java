@@ -1,5 +1,6 @@
-public class MaxProjectCountClient {
+package dto;
 
+public class MaxProjectCountClient {
     private String name;
     private int projectCount;
 

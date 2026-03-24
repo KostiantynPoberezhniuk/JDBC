@@ -1,7 +1,8 @@
+package dto;
+
 import java.time.LocalDate;
 
 public class YoungestEldestWorker {
-
     private String type;
     private String name;
     private LocalDate birthday;

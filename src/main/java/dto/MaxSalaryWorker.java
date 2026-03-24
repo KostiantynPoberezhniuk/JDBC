@@ -1,5 +1,6 @@
-public class MaxSalaryWorker {
+package dto;
 
+public class MaxSalaryWorker {
     private String name;
     private double salary;
 
